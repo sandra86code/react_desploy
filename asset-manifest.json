@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandra86code/react_desploy.git/static/css/main.58604424.css",
+    "main.js": "/sandra86code/react_desploy.git/static/js/main.88b44bd1.js",
+    "index.html": "/sandra86code/react_desploy.git/index.html",
+    "main.58604424.css.map": "/sandra86code/react_desploy.git/static/css/main.58604424.css.map",
+    "main.88b44bd1.js.map": "/sandra86code/react_desploy.git/static/js/main.88b44bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58604424.css",
+    "static/js/main.88b44bd1.js"
+  ]
+}
